@@ -1,0 +1,9 @@
+## Interface: 100200
+## Title: Purge
+## Version: 1.1.1
+## Notes: Interrupt and Purge Announcer
+## Author: Kynetix @ Kil'Jaden-US Alliance
+## SavedVariables: PurgeOn, PurgeTo, InterruptOn, DispelOn, PurgeSelf
+
+Purge.lua
+Purge.xml
